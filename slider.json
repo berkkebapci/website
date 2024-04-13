@@ -1,0 +1,24 @@
+[
+  {
+    "id": 0,
+    "gorsel": "https://raw.githubusercontent.com/berkkebapci/wallpaper_json_files/main/car_wallpapers/audi_tt.jpg",
+    "title": "Flutter Yeni Sürümünde Neler Var"
+  },
+  {
+    "id": 1,
+    "gorsel": "https://raw.githubusercontent.com/berkkebapci/wallpaper_json_files/main/car_wallpapers/bmw_dashboard.jpg",
+    "title": "Flutter 3.19"
+  },
+  {
+    "id": 2,
+    "gorsel": "https://raw.githubusercontent.com/berkkebapci/wallpaper_json_files/main/car_wallpapers/ferrari.jpg",
+    "title": "Kotlin"
+
+  },
+  {
+    "id": 3,
+    "gorsel": "https://raw.githubusercontent.com/berkkebapci/wallpaper_json_files/main/car_wallpapers/pexels-alex-chistol-3283098.jpg",
+    "title": "Swift"
+
+  }
+]
