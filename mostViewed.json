@@ -1,1 +1,24 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "https://raw.githubusercontent.com/berkkebapci/website/main/3.19.jpeg",
+    "title": "Flutter Nedir ?"
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://raw.githubusercontent.com/berkkebapci/wallpaper_json_files/main/car_wallpapers/bmw_dashboard.jpg",
+    "title": "Flutter Son Sürümünde Neler Var ?"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://raw.githubusercontent.com/berkkebapci/wallpaper_json_files/main/car_wallpapers/ferrari.jpg",
+    "title": "Kotlin"
 
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://raw.githubusercontent.com/berkkebapci/wallpaper_json_files/main/car_wallpapers/pexels-alex-chistol-3283098.jpg",
+    "title": "Swift"
+
+  }
+]
